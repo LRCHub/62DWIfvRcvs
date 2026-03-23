@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Mr.Simple",
+  "base_artist": "SUPER JUNIOR",
+  "createdAt": "2026-03-23T08:45:19.958402Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/01_Mr._Simple_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/02_Mr._Simple_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/03_Mr._Simple_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/04_Mr._Simple_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/05_Mr._Simple_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Simple (Rearranged) (Live)",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/06_Mr._Simple_(Rearranged)_(Live)_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Simple (Rearranged)",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/07_Mr._Simple_(Rearranged)_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/08_Mr._Simple_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Simple - Rearranged Version, Live",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/09_Mr._Simple_-_Rearranged_Version,_Live_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "슈퍼주니어 (Super Junior)",
+      "has_synced": true,
+      "path": "select/10_Mr._Simple_슈퍼주니어_(Super_Junior).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr. Simple / I Got A Boy",
+      "artist": "LEETEUK, LUNA, SUHO, XIUMIN & JO EUN",
+      "has_synced": true,
+      "path": "select/11_Mr._Simple___I_Got_A_Boy_LEETEUK,_LUNA,_SUHO,_XIUMIN_&_JO_EUN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Super Junior - Mr Simple",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/12_Super_Junior_-_Mr_Simple_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/13_Mr._Simple_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/14_Mr._Simple_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "슈퍼주니어",
+      "has_synced": true,
+      "path": "select/15_Mr._Simple_슈퍼주니어.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/16_Mr._Simple_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mr.Simple",
+      "artist": "SUPER JUNIOR",
+      "has_synced": true,
+      "path": "select/17_Mr.Simple_SUPER_JUNIOR.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mr. Simple",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/18_Mr._Simple_Super_Junior.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MR.SIMPLE",
+      "artist": "SUPER JUNIOR",
+      "has_synced": false,
+      "path": "select/pl_01_MR.SIMPLE_SUPER_JUNIOR.txt"
+    }
+  ]
+}
